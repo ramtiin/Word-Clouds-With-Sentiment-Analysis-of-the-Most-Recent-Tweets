@@ -1,4 +1,4 @@
-# Word-cloud-for-most-recent-tweets-and-their-polarity-with-sentiment-analysis
+# Word clouds with sentiment analysis of the most recent tweets
 Stay up to date at a glance!  I used TWINT (Twitter Intelligence Tool) to download tweets from the most popular news agencies and extract keywords from them. In the next steps, I plotted a word cloud and did a sentiment analysis for tweets that have the keywords.
 
 
